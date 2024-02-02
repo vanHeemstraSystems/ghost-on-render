@@ -7,6 +7,8 @@ Based on "Ghost: Migration lock was never released or currently a migration is r
 
 Based on "Deploy Ghost" at https://docs.render.com/deploy-ghost
 
+Based on "Deploy MySQL" at https://docs.render.com/deploy-mysql
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
