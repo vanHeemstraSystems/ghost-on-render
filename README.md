@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+ghost-on-render
+# Ghost on Render
 
-Based on "ABC" at https://www.abc.com/
+Based on "Ghost" at https://ghost.org
+
+Based on "Ghost: Migration lock was never released or currently a migration is running (Fix!)" at https://jessicadeen.com/posts/2019/ghost-migration-lock-was-never-released-or-currently-a-migration-is-running-fix/
+
+Based on "Deploy Ghost" at https://docs.render.com/deploy-ghost
 
 ## 100 - Introduction
 
