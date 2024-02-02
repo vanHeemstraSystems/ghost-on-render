@@ -9,6 +9,8 @@ Based on "Deploy Ghost" at https://docs.render.com/deploy-ghost
 
 Based on "Deploy MySQL" at https://docs.render.com/deploy-mysql
 
+Based on "Deploy Adminer" at https://docs.render.com/deploy-adminer
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
